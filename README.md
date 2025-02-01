@@ -29,7 +29,7 @@ This is a simple C++ console-based project that includes multiple functionalitie
    ```
 3. Compile the code using a C++ compiler:
    ```bash
-   g++ -o project main.cpp
+   g++ -o project FinalProject.cpp
    ```
 4. Run the compiled program:
    ```bash
