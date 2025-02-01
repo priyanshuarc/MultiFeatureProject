@@ -21,11 +21,11 @@ This is a simple C++ console-based project that includes multiple functionalitie
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   gh repo clone priyanshuarc/MultiFeatureProject
    ```
 2. Navigate to the project folder:
    ```bash
-   cd your-repository
+   cd MultiFeatureProject
    ```
 3. Compile the code using a C++ compiler:
    ```bash
